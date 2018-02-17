@@ -673,6 +673,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-hockeyapp ★105](https://github.com/benloopcompany/react-native-hockeyapp): HockeyApp integration for React Native with Android and iOS support.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [rn-apple-healthkit ★95](https://github.com/terrillo/rn-apple-healthkit): A React Native package for interacting with Apple HealthKit.
 
   <img src="./assets/ios.png"/>
