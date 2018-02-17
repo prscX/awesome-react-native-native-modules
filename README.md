@@ -15,6 +15,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 - Native Modules
   - [UI Libraries]()
+  - [Alert & Dialogs Libraries]()
   - [Network Libraries]()
   - [Motion Sensor Libraries]()
 
@@ -24,14 +25,6 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
-- [react-native-dialogs ★382](https://github.com/aakashns/react-native-dialogs): React Native wrappers for [material-dialogs](https://github.com/afollestad/material-dialogs).
-
-  <img src="./assets/android.png"/>
-
-- [react-native-snackbar ★172](https://github.com/cooperka/react-native-snackbar): Material-design "Snackbar" component for Android and iOS.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
 - [react-native-collapsing-toolbar ★130](https://github.com/cesardeazevedo/react-native-collapsing-toolbar): React Native wrapper for Android CollapsingToolbarLayout.
 
   <img src="./assets/android.png"/>
@@ -40,15 +33,15 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-material-palette ★74](https://github.com/callstack/react-native-material-palette): Bringing Material Palette API to React Native
+
+  <img src="./assets/android.png"/>
+
 - [react-native-full-screen ★31](https://github.com/Anthonyzou/react-native-full-screen): Full screen functionality for Android.
 
   <img src="./assets/android.png"/>
 
-- [react-native-bottom-sheet ★26](https://github.com/WhatAKitty/react-native-bottom-sheet): React Native Bottom Sheet module for Android.
-
-  <img src="./assets/android.png"/>
-
-- [react-native-android-checkbox ★13](https://github.com/mikemonteith/react-native-android-checkbox): A React Native Checkbox using the stock android widget.
+- [react-native-tabbed-view-pager-android ★31](https://github.com/madhu314/react-native-tabbed-view-pager-android): A React Native component for android view pager with tabs.
 
   <img src="./assets/android.png"/>
 
@@ -65,6 +58,20 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
+## Alter & Dialogs: Native Modules
+
+- [react-native-dialogs ★382](https://github.com/aakashns/react-native-dialogs): React Native wrappers for [material-dialogs](https://github.com/afollestad/material-dialogs).
+
+  <img src="./assets/android.png"/>
+
+- [react-native-snackbar ★172](https://github.com/cooperka/react-native-snackbar): Material-design "Snackbar" component for Android and iOS.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-prompt-android ★53](https://github.com/shimohq/react-native-prompt-android): A polyfill library for Alert.prompt on Android platform, working both on Android and iOS platform.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 
 ## Network: Native Modules
 
@@ -73,6 +80,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 - [react-native-android-speech ★45](https://github.com/mihirsoni/react-native-android-speech): This simple React Native module for Android Text To Speech functionality.
+
+  <img src="./assets/android.png"/>
+
+- [react-native-fused-location ★43](https://github.com/MustansirZia/react-native-fused-location): Finest location for react-native on Android using the new Fused API.
 
   <img src="./assets/android.png"/>
 
