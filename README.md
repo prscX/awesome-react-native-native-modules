@@ -9,8 +9,7 @@
   <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
 </p>
 
-
-Awesome ReactNative: Native Modules Guidelines/Components/News/Tools/Learning Materials
+A curated list of awesome React Native: Native Modules Guidelines/Components/News/Tools/Learning Materials. For general React Native libraries please have a look at [awesome-react-native](https://github.com/jondot/awesome-react-native)
 
 ## Contribution
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
