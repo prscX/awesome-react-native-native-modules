@@ -2,12 +2,12 @@
   <img src="./assets/hero.png">
 </p>
 
-# Awesome React Native: Native Modules
-
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
   <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
 </p>
+
+# Awesome React Native: Native Modules
 
 A curated list of awesome React Native: Native Modules Guidelines/Components/News/Tools/Learning Materials. For general React Native libraries please have a look at [awesome-react-native](https://github.com/jondot/awesome-react-native).
 
