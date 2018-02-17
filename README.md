@@ -237,7 +237,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Network:-Native-Modules">Network: Native Modules</a>
 
-- [react-native-webrtc ★1321](https://github.com/oney/react-native-webrtc): A WebRTC module for React Native..
+- [react-native-push-notification ★2509](https://github.com/zo0r/react-native-push-notification): React Native Local and Remote Notifications.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-webrtc ★1321](https://github.com/oney/react-native-webrtc): A WebRTC module for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -253,11 +257,19 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-ble-manager ★456](https://github.com/innoveit/react-native-ble-manager): React Native BLE communication module.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-ibeacon ★310](https://github.com/frostney/react-native-ibeacon): 📡 iBeacon support for React Native.
 
   <img src="./assets/ios.png"/>
 
 - [react-native-mail ★266](https://github.com/chirag04/react-native-mail): A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-bluetooth-serial ★204](https://github.com/rusel1989/react-native-bluetooth-serial): Port of [BluetoothSerial](https://github.com/don/BluetoothSerial) for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -308,6 +320,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-kontaktio ★35](https://github.com/Artirigo/react-native-kontaktio): React Native (iOS and Android) library for Kontakt.io beacons (and all other beacons).
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-nfc-ios ★32](https://github.com/barodeur/react-native-nfc-ios): Easy to use CoreNFC for React Native.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-carrier-info ★25](https://github.com/ianlin/react-native-carrier-info): React Native module bridge to obtain information about the user’s home cellular service provider.
 
@@ -370,6 +386,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-notifications ★882](https://github.com/wix/react-native-notifications): React Native Notifications.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-contacts ★635](https://github.com/rt2zz/react-native-contacts): React Native Contacts.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -387,6 +407,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-background-job ★322](https://github.com/vikeri/react-native-background-job): Schedule background jobs in React Native that run your JavaScript when your app is in the background/killed.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-google-cast ★217](https://github.com/charliesbox/react-native-google-cast): A library that unifies both android and iOS chromecast sdk.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -423,6 +447,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-app-info ★39](https://github.com/Iragne/react-native-app-info): Get app version from NSBundle.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-search-api ★23](https://github.com/ombori/react-native-search-api): The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.
 
   <img src="./assets/ios.png"/>
 
