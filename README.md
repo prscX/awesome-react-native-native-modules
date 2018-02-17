@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
   <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://www.npmjs.com/package/react-native-media-meta"><img src="http://img.shields.io/npm/v/awesome-react-native-native-modules.svg?style=flat" /></a>
 </p>
 
 # Awesome React Native: Native Modules
@@ -24,6 +25,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   - [Bundler & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#Bundler-&-File-Manager:-Native-Modules)
   - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#Security-&-Auth:-Native-Modules)
   - [Utility Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility:-Native-Modules)
+
+
+
+
 
 ## <a name="UI:-Native-Modules">UI: Native Modules</a>
 
@@ -50,6 +55,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-effects-view ★275](https://github.com/voronianski/react-native-effects-view): Use iOS8 UIVisualEffectViews's blur and vibrancy with ReactNative.
 
   <img src="./assets/ios.png"/>
+
+- [react-native-cardview ★153](https://github.com/Kishanjvaghela/react-native-cardview): CardView for react-native (All Android version and iOS).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-collapsing-toolbar ★130](https://github.com/cesardeazevedo/react-native-collapsing-toolbar): React Native wrapper for Android CollapsingToolbarLayout.
 
@@ -79,6 +88,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-thumbnail ★30](https://github.com/phuochau/react-native-thumbnail): Get thumbnail from local media. Currently, it only supports for video.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-tabbed-view-pager-android ★21](https://github.com/madhu314/react-native-tabbed-view-pager-android): A React Native component for android view pager with tabs.
 
   <img src="./assets/android.png"/>
@@ -96,7 +109,15 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
+
+
+
+
 ## <a name="Alter,-Prompt,-Action-&-Dialog:-Native-Modules">Alter, Prompt, Action & Dialog: Native Modules</a>
+
+- [react-native-picker ★870](https://github.com/beefe/react-native-picker): A Native Picker with high performance.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-activity-view ★387](https://github.com/naoufal/react-native-activity-view): iOS share and action sheets for React Native.
 
@@ -139,11 +160,18 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
+
+
+
+
 ## <a name="Image:-Native-Modules">Image: Native Modules</a>
 
 - [react-native-image-sequence ★38](https://github.com/madsleejensen/react-native-image-sequence): Native implementation for creating frame based image animations.
 
   <img src="./assets/ios.png"/>
+
+
+
 
 
 ## <a name="Keyboard:-Native-Modules">Keyboard: Native Modules</a>
@@ -153,7 +181,18 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/ios.png"/>
 
 
+
+
+
 ## <a name="Network:-Native-Modules">Network: Native Modules</a>
+
+- [react-native-webrtc ★1321](https://github.com/oney/react-native-webrtc): A WebRTC module for React Native..
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-mapbox-gl ★1278](https://github.com/mapbox/react-native-mapbox-gl): A Mapbox GL react native module for creating custom maps.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-speech ★199](https://github.com/naoufal/react-native-speech): A text-to-speech library for React Native.
 
@@ -167,6 +206,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
+- [react-native-geo-fencing ★45](https://github.com/surialabs/react-native-geo-fencing): Native modules to determine if a location is within defined geographical boundaries using Google Geometry library.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-android-speech ★45](https://github.com/mihirsoni/react-native-android-speech): This simple React Native module for Android Text To Speech functionality.
 
   <img src="./assets/android.png"/>
@@ -175,16 +218,31 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-media-meta ★18](https://github.com/mybigday/react-native-media-meta): Get media file metadata in your React Native app.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-android-geolocation ★18](https://github.com/garysye/react-native-android-geolocation): React Native Module to use Android Geolocation via Google Play API.
 
   <img src="./assets/android.png"/>
 
 
+
+
+
 ## <a name="Motion-Sensor:-Native-Modules">Motion Sensor: Native Modules</a>
+
+- [react-native-motion-manager ★203](https://github.com/pwmckenna/react-native-motion-manager): CMMotionManager wrapper for react-native.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-sensor-manager ★146](https://github.com/kprimice/react-native-sensor-manager): Native sensors access for react-native.
 
   <img src="./assets/android.png"/>
+
+
+
+
 
 ## <a name="Widget:-Native-Modules">Widget: Native Modules</a>
 
@@ -192,7 +250,15 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+
+
+
+
 ## <a name="Bundler-&-File-Manager:-Native-Modules">Bundler & File Manager: Native Modules</a>
+
+- [react-native-fs ★1795](https://github.com/itinance/react-native-fs): Native filesystem access for react-native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
 
 - [react-native-phone-picker ★52](https://github.com/Spikef/react-native-phone-picker): React Native component for select phone number from address book.
 
@@ -210,7 +276,15 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+
+
+
+
 ## <a name="Security-&-Auth:-Native-Modules">Security & Auth: Native Modules</a>
+
+- [react-native-permissions ★670](https://github.com/yonahforst/react-native-permissions): Check and request user permissions in ReactNative (iOS and Android).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-touch-id ★601](https://github.com/naoufal/react-native-touch-id): React Native authentication with the native Touch ID popup.
 
@@ -220,12 +294,23 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
+
+
+
+
 ## <a name="Utility:-Native-Modules">Utility: Native Modules</a>
+
+- [react-native-exception-handler ★246](https://github.com/master-atul/react-native-exception-handler): A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [rn-apple-healthkit ★95](https://github.com/terrillo/rn-apple-healthkit): A React Native package for interacting with Apple HealthKit.
 
   <img src="./assets/ios.png"/>
 
+- [react-native-battery ★20](https://github.com/oojr/react-native-battery): Plugin for react native that adds an listener for the battery status of a device.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 
 ## Contribution
