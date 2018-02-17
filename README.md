@@ -14,18 +14,24 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 ## Content
 
 - Native Modules
-  - [UI Libraries]()
+  - [UI Libraries](#UI:-Native-Modules)
   - [Alert, Prompt, Action & Dialog Libraries]()
+  - [Image Libraries]()
   - [Keyboard Libraries]()
   - [Network Libraries]()
   - [Motion Sensor Libraries]()
   - [Widget Libraries]()
   - [Bundler & File Manager Libraries]()
   - [Security & Auth Libraries]()
+  - [Utility Libraries]()
 
-## UI: Native Modules
+## <a name="#UI:-Native-Modules">UI: Native Modules</a>
 
 - [react-native-tableview ★921](https://github.com/aksonov/react-native-tableview): Native iOS UITableView for React Native with JSON support and more.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-overlay ★588](https://github.com/brentvatne/react-native-overlay): An <Overlay /> component that brings content inside to the front of the view regardless of its current position in the component tree.
 
   <img src="./assets/ios.png"/>
 
@@ -57,9 +63,13 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
-- [react-native-material-palette ★74](https://github.com/callstack/react-native-material-palette): Bringing Material Palette API to React Native
+- [react-native-material-palette ★74](https://github.com/callstack/react-native-material-palette): Bringing Material Palette API to React Native.
 
   <img src="./assets/android.png"/>
+
+- [react-native-ios-drag-drop ★61](https://github.com/matt-oakes/react-native-ios-drag-drophttps://github.com/callstack/react-native-material-palette): Support for the iOS 11+ inter-app drag and drop.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-android-activity ★37](https://github.com/petterh/react-native-android-activity): A React Native component for android view pager with tabs.
 
@@ -87,6 +97,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 
 ## Alter, Prompt, Action & Dialog: Native Modules
+
+- [react-native-activity-view ★387](https://github.com/naoufal/react-native-activity-view): iOS share and action sheets for React Native.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-dialogs ★382](https://github.com/aakashns/react-native-dialogs): React Native wrappers for [material-dialogs](https://github.com/afollestad/material-dialogs).
 
@@ -125,14 +139,25 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
+## Image: Native Modules
+
+- [react-native-image-sequence ★38](https://github.com/madsleejensen/react-native-image-sequence): Native implementation for creating frame based image animations.
+
+  <img src="./assets/ios.png"/>
+
+
 ## Keyboard: Native Modules
 
-- [https://github.com/douglasjunior/react-native-keyboard-manager ★165](https://github.com/douglasjunior/react-native-keyboard-manager): Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
+- [react-native-keyboard-manager ★165](https://github.com/douglasjunior/react-native-keyboard-manager): Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
 
   <img src="./assets/ios.png"/>
 
 
 ## Network: Native Modules
+
+- [react-native-speech ★199](https://github.com/naoufal/react-native-speech): A text-to-speech library for React Native.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-android-sms-listener ★136](https://github.com/CentaurWarchief/react-native-android-sms-listener): Allows you to listen for incoming SMS messages using React Native.
 
@@ -187,9 +212,20 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## Security & Auth: Native Modules
 
+- [react-native-touch-id ★601](https://github.com/naoufal/react-native-touch-id): React Native authentication with the native Touch ID popup.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-privacy-snapshot ★102](https://github.com/kayla-tech/react-native-privacy-snapshot): Obscure passwords and other sensitive personal information when a react-native app transitions to the background.
 
   <img src="./assets/ios.png"/>
+
+## Utility: Native Modules
+
+- [rn-apple-healthkit ★95](https://github.com/terrillo/rn-apple-healthkit): A React Native package for interacting with Apple HealthKit.
+
+  <img src="./assets/ios.png"/>
+
 
 
 ## Contribution
