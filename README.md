@@ -6,6 +6,7 @@
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
   <a href="https://www.npmjs.com/package/react-native-media-meta"><img src="http://img.shields.io/npm/v/awesome-react-native-native-modules.svg?style=flat" /></a>
   <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
+  <a href="https://github.com/prscX/awesome-react-native-native-modules#License"><img src="https://img.shields.io/npm/l/awesome-react-native-native-modules.svg?style=flat-square" /></a>
 </p>
 
 # Awesome React Native: Native Modules
@@ -166,10 +167,21 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Image:-Native-Modules">Image: Native Modules</a>
 
+- [react-native-photo-view ★464](https://github.com/alwx/react-native-photo-view): Pinch-to-zoom view for React Native (both iOS and Android).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-image-tools ★109](https://github.com/npomfret/react-native-image-tools): Image editing software powered by Abode Creative SDK for iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-image-sequence ★38](https://github.com/madsleejensen/react-native-image-sequence): Native implementation for creating frame based image animations.
 
   <img src="./assets/ios.png"/>
 
+- [react-native-palette ★30](https://github.com/chetstone/react-native-palette): A library wrapping the Android Palette class to extract colors from an image.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 
 
@@ -206,7 +218,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
-- [react-native-geo-fencing ★45](https://github.com/surialabs/react-native-geo-fencing): Native modules to determine if a location is within defined geographical boundaries using Google Geometry library.
+- [react-native-geo-fencing ★74](https://github.com/surialabs/react-native-geo-fencing): Native modules to determine if a location is within defined geographical boundaries using Google Geometry library.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-link-preview ★61](https://github.com/ospfranco/react-native-link-preview): Javascript module that allows to extract URL information from text.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -300,6 +316,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Utility:-Native-Modules">Utility: Native Modules</a>
 
+- [react-native-signature-capture ★343](https://github.com/RepairShopr/react-native-signature-capture): A simple modular component for react native (iOS) to capture a signature as an image.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-exception-handler ★246](https://github.com/master-atul/react-native-exception-handler): A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -318,7 +338,7 @@ Found a native module library that you think is awesome?? Want to share it with 
 
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
-## License
+## <a href="#License">License</a>
 This library is provided under the MIT License.
 
 AwesomeReactNativeNativeModules @ Pranav Raj Singh Chauhan
