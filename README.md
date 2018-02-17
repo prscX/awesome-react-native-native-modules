@@ -26,6 +26,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
   - [Widget Libraries](https://github.com/prscX/awesome-react-native-native-modules#Widget:-Native-Modules)
   - [OS, System & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#OS-&-System-&-File-Manager:-Native-Modules)
   - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#Security-&-Auth:-Native-Modules)
+  - [Charts & Graph Libraries](https://github.com/prscX/awesome-react-native-native-modules#Chart-&-Graph:-Native-Modules)
   - [Utility, Build & Publish Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility-&-Build-&-Publish:-Native-Modules)
 
 - [Credits](https://github.com/prscX/awesome-react-native-native-modules#Credits)
@@ -236,6 +237,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-image-resizer ★470](https://github.com/bamlab/react-native-image-resizer): 🗻 Resize local images with React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-photo-view ★464](https://github.com/alwx/react-native-photo-view): Pinch-to-zoom view for React Native (both iOS and Android).
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -287,6 +292,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 - [ReactNativeBarcodeScanner ★58](https://github.com/lifuzu/ReactNativeBarcodeScanner): Implemented a barcode scanner with support of react native technology.
 
   <img src="./assets/ios.png"/>
+
+- [react-native-image-intent ★41](https://github.com/sonnylazuardi/react-native-image-intent): 🔬 Image intent receiver for React Native android.
+
+  <img src="./assets/android.png"/>
 
 - [react-native-image-sequence ★38](https://github.com/madsleejensen/react-native-image-sequence): Native implementation for creating frame based image animations.
 
@@ -615,6 +624,20 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-privacy-snapshot ★102](https://github.com/kayla-tech/react-native-privacy-snapshot): Obscure passwords and other sensitive personal information when a react-native app transitions to the background.
 
   <img src="./assets/ios.png"/>
+
+
+
+
+
+## <a name="Chart-&-Graph:-Native-Modules">Chart & Graph: Native Modules</a>
+
+- [react-native-charts-wrapper ★648](https://github.com/wuxudong/react-native-charts-wrapper): A React Native charts wrapper (support android & ios).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-svg-charts ★154](https://github.com/JesperLekland/react-native-svg-charts): 📈 One library to rule all charts for React Native 📊.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 
 
