@@ -1,0 +1,19 @@
+{
+    "name": "awesome-react-native-native-modules",
+    "version": "0.0.0",
+    "description": "Awesome ReactNative: Native Modules Guidelines/Components/News/Tools/Learning Materials",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [ ],
+    "author": "Pranav Raj Singh Chauhan",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prscX/awesome-react-native-native-modules.git"
+    },
+    "dependencies": { },
+    "devDependencies": { },
+    "peerDependencies": { }
+}
