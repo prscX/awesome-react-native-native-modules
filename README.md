@@ -1,4 +1,11 @@
 # Awesome React Native: Native Modules
+
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+</p>
+
+
 Awesome ReactNative: Native Modules Guidelines/Components/News/Tools/Learning Materials
 
 ## Contribution
