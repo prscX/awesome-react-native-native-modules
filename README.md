@@ -131,7 +131,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="Loaders">Loaders: Native Modules</a>
+## <a name="Loaders:-Native-Modules">Loaders: Native Modules</a>
 
 - [react-native-spinkit ★1230](https://github.com/maxs15/react-native-spinkit): A collection of animated loading indicators for React Native.
 
