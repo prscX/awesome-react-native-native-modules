@@ -15,9 +15,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 - Native Modules
   - [UI Libraries]()
-  - [Alert & Dialogs Libraries]()
+  - [Alert, Prompt, Action & Dialog Libraries]()
   - [Network Libraries]()
   - [Motion Sensor Libraries]()
+  - [Widget Libraries]()
+  - [Bundler & File Manager Libraries]()
 
 ## UI: Native Modules
 
@@ -37,11 +39,15 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-android-activity ★37](https://github.com/petterh/react-native-android-activity): A React Native component for android view pager with tabs.
+
+  <img src="./assets/android.png"/>
+
 - [react-native-full-screen ★31](https://github.com/Anthonyzou/react-native-full-screen): Full screen functionality for Android.
 
   <img src="./assets/android.png"/>
 
-- [react-native-tabbed-view-pager-android ★31](https://github.com/madhu314/react-native-tabbed-view-pager-android): A React Native component for android view pager with tabs.
+- [react-native-tabbed-view-pager-android ★21](https://github.com/madhu314/react-native-tabbed-view-pager-android): A React Native component for android view pager with tabs.
 
   <img src="./assets/android.png"/>
 
@@ -58,7 +64,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
-## Alter & Dialogs: Native Modules
+## Alter, Prompt, Action & Dialog: Native Modules
 
 - [react-native-dialogs ★382](https://github.com/aakashns/react-native-dialogs): React Native wrappers for [material-dialogs](https://github.com/afollestad/material-dialogs).
 
@@ -68,9 +74,17 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-action-sheet ★66](https://github.com/yfuks/react-native-action-sheet): React native simple action sheet with native android (using the built-in AlertDialog).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-prompt-android ★53](https://github.com/shimohq/react-native-prompt-android): A polyfill library for Alert.prompt on Android platform, working both on Android and iOS platform.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-android-location-enabler ★11](https://github.com/Richou/react-native-android-location-enabler): Display a GoogleMap like android popup to ask for user to enable location services if disabled.
+
+  <img src="./assets/android.png"/>
 
 
 ## Network: Native Modules
@@ -97,6 +111,23 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-sensor-manager ★146](https://github.com/kprimice/react-native-sensor-manager): Native sensors access for react-native.
 
   <img src="./assets/android.png"/>
+
+## Widget: Native Modules
+
+- [react-native-android-widget-poc ★70](https://github.com/netbeast/react-native-android-widget-poc): React Native Android widgets bridged to JS, a proof of concept.
+
+  <img src="./assets/android.png"/>
+
+## Bundler & File Manager: Native Modules
+
+- [react-native-get-music-files ★14](https://github.com/cinder92/react-native-get-music-files): React Native package to get music files from local and sd for iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-android-packagemanager ★12](https://github.com/staltz/react-native-android-packagemanager): Call some PackageManager APIs from React Native.
+
+  <img src="./assets/android.png"/>
+
 
 
 ## Contribution
