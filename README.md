@@ -17,7 +17,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   - [UI Libraries]()
 
 ## UI: Native Modules
-- [react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) ★130: React Native wrapper for Android CollapsingToolbarLayout
+- [react-native-collapsing-toolbar ★130](https://github.com/cesardeazevedo/react-native-collapsing-toolbar): React Native wrapper for Android CollapsingToolbarLayout
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
