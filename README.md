@@ -266,6 +266,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-html-to-pdf ★122](https://github.com/christopherdro/react-native-html-to-pdf): Convert html strings to PDF documents using React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-document-picker ★119](https://github.com/Elyx0/react-native-document-picker): Document Picker for React Native using Document Providers.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -442,6 +446,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Motion-Sensor:-Native-Modules">Motion Sensor: Native Modules</a>
 
+- [react-native-gesture-handler ★484](https://github.com/kmagiera/react-native-gesture-handler): New declarative API for gesture handling in react-native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-motion-manager ★203](https://github.com/pwmckenna/react-native-motion-manager): CMMotionManager wrapper for react-native.
 
   <img src="./assets/ios.png"/>
@@ -450,6 +458,9 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-proximity ★128](https://github.com/williambout/react-native-proximity):📱 A React Native wrapper that provides access to the proximity sensor on iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 
 
