@@ -17,9 +17,31 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   - [UI Libraries]()
 
 ## UI: Native Modules
+
+- [react-native-bottom-sheet-behavior ★554](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior): React Native wrapper for Android BottomSheetBehavior
+
+  <img src="./assets/android.png"/>
+
+- [react-native-dialogs ★382](https://github.com/aakashns/react-native-dialogs): React Native wrappers for [material-dialogs](https://github.com/afollestad/material-dialogs)
+
+  <img src="./assets/android.png"/>
+
 - [react-native-collapsing-toolbar ★130](https://github.com/cesardeazevedo/react-native-collapsing-toolbar): React Native wrapper for Android CollapsingToolbarLayout
 
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+  <img src="./assets/android.png"/>
+
+- [react-native-android-kit ★94](https://github.com/adbayb/react-native-android-kit): Android Native Kit for React Native
+
+  <img src="./assets/android.png"/>
+
+- [react-native-android-checkbox ★13](https://github.com/mikemonteith/react-native-android-checkbox): A React Native Checkbox using the stock android widget
+
+  <img src="./assets/android.png"/>
+
+- [react-native-radio-button-android ★4](https://github.com/sichacvah/react-native-radio-button-android): A React Native Radio using the stock android widget
+
+  <img src="./assets/android.png"/>
+
 
 
 
