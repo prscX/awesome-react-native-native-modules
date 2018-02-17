@@ -73,6 +73,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [RCTAutoComplete ★148](https://github.com/nulrich/RCTAutoComplete): React Native Component for MLPAutoCompleteTextField.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-shimmer ★137]https://github.com/oblador/react-native-shimmer): Simple shimmering effect for any view in React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-collapsing-toolbar ★130](https://github.com/cesardeazevedo/react-native-collapsing-toolbar): React Native wrapper for Android CollapsingToolbarLayout.
 
   <img src="./assets/android.png"/>
@@ -378,6 +386,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-background-timer ★349](https://github.com/ocetnik/react-native-background-timer): Emit event periodically (even when app is in the background).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-background-job ★322](https://github.com/vikeri/react-native-background-job): Schedule background jobs in React Native that run your JavaScript when your app is in the background/killed.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-exception-handler ★246](https://github.com/master-atul/react-native-exception-handler): A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -411,7 +427,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## Contribution
+## Contribution :octocat:
 Found a native module library that you think is awesome?? Want to share it with the world? Add your repo's information to README.
 
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
