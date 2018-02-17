@@ -645,6 +645,12 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 
 
+## Credits
+- All the contributors of above listed Native Module libraries.
+- React Native Community members for encouraging to create a Native Modules - Guidelines/Components/News/Tools/Learning Materials.
+- Icons used by [aha-soft](https://www.iconfinder.com/aha-soft)
+
+
 ## Contribution :octocat:
 Found a native module library that you think is awesome?? Want to share it with the world? Add your repo's information to README.
 
