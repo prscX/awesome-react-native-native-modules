@@ -17,7 +17,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   - [UI Libraries]()
 
 ## UI Libraries
-- [react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) ![Android](./assets/android.png)
+- [react-native-collapsing-toolbar](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) <img src="./assets/android.png"/>
 
 
 
