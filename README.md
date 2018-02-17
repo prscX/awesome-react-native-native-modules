@@ -544,6 +544,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-branch-deep-linking ★215](https://github.com/BranchMetrics/react-native-branch-deep-linking): NPM module for integrating Branch deep linking with React Native apps.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-keep-awake ★210](https://github.com/corbt/react-native-keep-awake): Keep the screen from going to sleep. iOS and Android.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -609,6 +613,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Security-&-Auth:-Native-Modules">Security & Auth: Native Modules</a>
 
+- [react-native-google-signin ★768](https://github.com/devfd/react-native-google-signin): Google Signin for your react native applications.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-permissions ★670](https://github.com/yonahforst/react-native-permissions): Check and request user permissions in ReactNative (iOS and Android).
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -617,7 +625,15 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-oauth ★447](https://github.com/fullstackreact/react-native-oauth): A react-native wrapper for social authentication login for both Android and iOS.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-fingerprint-scanner ★172](https://github.com/hieuvp/react-native-fingerprint-scanner): Provide Touch ID Fingerprint Scanner for React Native (Compatible with both Android and iOS).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-auth0 ★128](https://github.com/auth0/react-native-auth0): React Native toolkit for Auth0 API.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
