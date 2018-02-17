@@ -76,7 +76,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
-- [react-native-shimmer ★137]https://github.com/oblador/react-native-shimmer): Simple shimmering effect for any view in React Native.
+- [react-native-shimmer ★137](https://github.com/oblador/react-native-shimmer): Simple shimmering effect for any view in React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
