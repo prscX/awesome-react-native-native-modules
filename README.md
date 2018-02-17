@@ -18,12 +18,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
   - [Alert, Prompt, Action & Dialog Libraries](https://github.com/prscX/awesome-react-native-native-modules#Alter,-Prompt,-Action-&-Dialog:-Native-Modules)
-  - [Image, Video & Docs Libraries](https://github.com/prscX/awesome-react-native-native-modules#Image-&-Video-&-Docs:-Native-Modules)
-  - [Keyboard Libraries](https://github.com/prscX/awesome-react-native-native-modules#Keyboard:-Native-Modules)
+  - [Image, Audio, Video & Docs Libraries](https://github.com/prscX/awesome-react-native-native-modules#Image-&-Audio-&-Video-&-Docs:-Native-Modules)
   - [Network Libraries](https://github.com/prscX/awesome-react-native-native-modules#Network:-Native-Modules)
   - [Motion Sensor Libraries](https://github.com/prscX/awesome-react-native-native-modules#Motion-Sensor:-Native-Modules)
   - [Widget Libraries](https://github.com/prscX/awesome-react-native-native-modules#Widget:-Native-Modules)
-  - [Bundler & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#Bundler-&-File-Manager:-Native-Modules)
+  - [OS, System & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#OS-&-System-&-File-Manager:-Native-Modules)
   - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#Security-&-Auth:-Native-Modules)
   - [Utility Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility:-Native-Modules)
 
@@ -181,7 +180,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="Image-&-Video-&-Docs:-Native-Modules">Image, Video & Docs: Native Modules</a>
+## <a name="Image-&-Audio-&-Video-&-Docs:-Native-Modules">Image, Audio, Video & Docs: Native Modules</a>
 
 - [react-native-youtube ★514](https://github.com/inProgress-team/react-native-youtube): A <YouTube/> component for React Native..
 
@@ -196,6 +195,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-pdf ★216](https://github.com/wonday/react-native-pdf): A React Native PDF view module.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-voice ★195](https://github.com/wenkesj/react-native-voice): React Native Voice Recognition library for iOS and Android (Online and Offline Support).
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -225,13 +228,6 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="Keyboard:-Native-Modules">Keyboard: Native Modules</a>
-
-- [react-native-keyboard-manager ★165](https://github.com/douglasjunior/react-native-keyboard-manager): Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
-
-  <img src="./assets/ios.png"/>
-
-
 
 
 
@@ -246,6 +242,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-ble-plx ★586](https://github.com/Polidea/react-native-ble-plx): React Native BLE library.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-mail ★266](https://github.com/chirag04/react-native-mail): A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -324,11 +324,39 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="Bundler-&-File-Manager:-Native-Modules">Bundler & File Manager: Native Modules</a>
+## <a name="OS-&-System-&-File-Manager:-Native-Modules">OS, System & File Manager: Native Modules</a>
 
 - [react-native-fs ★1795](https://github.com/itinance/react-native-fs): Native filesystem access for react-native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
+
+- [react-native-i18n ★1249](https://github.com/AlexanderZaytsev/react-native-i18n): React Native + i18n.js.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-config ★1177](https://github.com/luggit/react-native-config): Bring some 12 factor love to your mobile apps.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-quick-actions ★508](https://github.com/jordanbyron/react-native-quick-actions): A react-native interface for Touch 3D home screen quick actions.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-background-timer ★349](https://github.com/ocetnik/react-native-background-timer): Emit event periodically (even when app is in the background).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-background-job ★322](https://github.com/vikeri/react-native-background-job): Schedule background jobs in React Native that run your JavaScript when your app is in the background/killed.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-keep-awake ★210](https://github.com/corbt/react-native-keep-awake): Keep the screen from going to sleep. iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-keyboard-manager ★165](https://github.com/douglasjunior/react-native-keyboard-manager): Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-zip-archive ★115](https://github.com/mockingbot/react-native-zip-archive): Zip archive utility for react-native.
 
@@ -338,9 +366,17 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
+- [react-native-exit-app ★40](https://github.com/wumke/react-native-exit-app): Exit,close,kill,shutdown app completely for React Native on iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-app-info ★39](https://github.com/Iragne/react-native-app-info): Get app version from NSBundle.
 
   <img src="./assets/ios.png"/>
+
+- [react-native-battery ★20](https://github.com/oojr/react-native-battery): Plugin for react native that adds an listener for the battery status of a device.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-get-music-files ★14](https://github.com/cinder92/react-native-get-music-files): React Native package to get music files from local and sd for iOS and Android.
 
@@ -350,6 +386,9 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-dimmer ★4](https://github.com/yadi-social/react-native-dimmer): A plugin that allows you to enable (eventually lock the device) and disable the screen dim in your React Native app. Works in both iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 
 
@@ -378,27 +417,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Utility:-Native-Modules">Utility: Native Modules</a>
 
-- [react-native-config ★1177](https://github.com/luggit/react-native-config): Bring some 12 factor love to your mobile apps.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
-- [react-native-quick-actions ★508](https://github.com/jordanbyron/react-native-quick-actions): A react-native interface for Touch 3D home screen quick actions.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
-- [react-native-background-timer ★349](https://github.com/ocetnik/react-native-background-timer): Emit event periodically (even when app is in the background).
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
-- [react-native-background-job ★322](https://github.com/vikeri/react-native-background-job): Schedule background jobs in React Native that run your JavaScript when your app is in the background/killed.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
 - [react-native-exception-handler ★246](https://github.com/master-atul/react-native-exception-handler): A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
-- [react-native-voice ★195](https://github.com/wenkesj/react-native-voice): React Native Voice Recognition library for iOS and Android (Online and Offline Support).
+- [react-native-awesome-card-io ★235](https://github.com/Kerumen/react-native-awesome-card-io): A complete and cross-platform card.io component for React Native (iOS and Android).
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -406,19 +429,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
-- [react-native-exit-app ★40](https://github.com/wumke/react-native-exit-app): Exit,close,kill,shutdown app completely for React Native on iOS and Android.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
 - [react-native-cordova ★35](https://github.com/remobile/react-native-cordova): A cordova plugin bridge for react-native.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
-- [react-native-battery ★20](https://github.com/oojr/react-native-battery): Plugin for react native that adds an listener for the battery status of a device.
-
-  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
-
-- [react-native-dimmer ★4](https://github.com/yadi-social/react-native-dimmer): A plugin that allows you to enable (eventually lock the device) and disable the screen dim in your React Native app. Works in both iOS and Android.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
