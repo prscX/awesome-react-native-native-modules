@@ -11,7 +11,8 @@
 
 # Awesome React Native: Native Modules
 
-A curated list of awesome React Native: Native Modules Guidelines/Components/News/Tools/Learning Materials. For general React Native libraries please have a look at [awesome-react-native](https://github.com/jondot/awesome-react-native).
+A curated list of Awesome React Native: Native Modules Guidelines/Components/News/Tools/Learning Materials. For general React Native libraries please have a look at [awesome-react-native](https://github.com/jondot/awesome-react-native).
+
 
 ## Content
 
@@ -182,6 +183,26 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Image-&-Audio-&-Video-&-Docs:-Native-Modules">Image, Audio, Video & Docs: Native Modules</a>
 
+- [react-native-camera ★4725](https://github.com/react-native-community/react-native-camera): A Camera component for React Native. Also supports barcode scanning!.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-image-picker ★3446](https://github.com/react-community/react-native-image-picker): A React Native module that allows you to use native UI to select media from the device library or directly from the camera.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-video ★2582](https://github.com/react-native-community/react-native-video): A <Video /> component for React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-image-crop-picker ★1790](https://github.com/ivpusic/react-native-image-crop-picker): iOS/Android image picker with support for camera, configurable compression, multiple images and cropping.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-sound ★1114](https://github.com/zmxv/react-native-sound): React Native module for playing sound clips.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
+
 - [react-native-view-shot ★555](https://github.com/gre/react-native-view-shot): Snapshot a React Native view and save it to an image.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
@@ -194,7 +215,15 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-camera-kit ★422](https://github.com/wix/react-native-camera-kit): Advanced native camera and gallery controls and device photos API.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-video-processing ★353](https://github.com/shahen94/react-native-video-processing): Native Video editing/trimming/compressing 🎥 library for React-Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-pdf-view ★282](https://github.com/cnjon/react-native-pdf-view): React Native PDF View.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -206,9 +235,29 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-doc-viewer ★176](https://github.com/philipphecht/react-native-doc-viewer): React Native Doc Viewer (Supports file formats: xls,ppt,doc,xlsx,pptx,csv,docx,png,jpg,pdf,xml,binary ...).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-media-kit ★171](https://github.com/ldn0x7dc/react-native-media-kit): Video(and audio) component for react-native apps, supporting both iOS and Android. A unified and elegant player controller is provided by default. The API is similar with HTML video.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-document-picker ★119](https://github.com/Elyx0/react-native-document-picker): Document Picker for React Native using Document Providers.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-image-tools ★109](https://github.com/npomfret/react-native-image-tools): Image editing software powered by Abode Creative SDK for iOS and Android.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-vlc-player ★60](https://github.com/ghondar/react-native-vlc-player): VLC Player for React Native.
+
+  <img src="./assets/android.png"/>
+
+- [ReactNativeBarcodeScanner ★58](https://github.com/lifuzu/ReactNativeBarcodeScanner): Implemented a barcode scanner with support of react native technology.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-image-sequence ★38](https://github.com/madsleejensen/react-native-image-sequence): Native implementation for creating frame based image animations.
 
@@ -218,11 +267,19 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-quick-look ★30](https://github.com/redbooth/react-native-quick-look): React Native Component for iOS QuickLook Framework.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-thumbnail ★30](https://github.com/phuochau/react-native-thumbnail): Get thumbnail from local media. Currently, it only supports for video.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-palette ★30](https://github.com/chetstone/react-native-palette): A library wrapping the Android Palette class to extract colors from an image.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-compress ★15](https://github.com/phuochau/react-native-compress): Compress video for react native. Only for iOS, Android will be coming.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
