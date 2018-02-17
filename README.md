@@ -647,18 +647,18 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="#Credits">Credits</a>
+## <a name="Credits">Credits</a>
 - All the contributors of above listed Native Module libraries.
 - React Native Community members for encouraging to create a Native Modules - Guidelines/Components/News/Tools/Learning Materials.
 - Icons used by [aha-soft](https://www.iconfinder.com/aha-soft)
 
 
-## <a name="#Contribution">Contribution :octocat:</a>
+## <a name="Contribution">Contribution :octocat:</a>
 Found a native module library that you think is awesome?? Want to share it with the world? Add your repo's information to README.
 
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
-## <a name="#License">License</a>
+## <a name="License">License</a>
 This library is provided under the MIT License.
 
 AwesomeReactNativeNativeModules @ Pranav Raj Singh Chauhan
