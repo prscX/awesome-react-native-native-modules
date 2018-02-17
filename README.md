@@ -18,6 +18,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
+  - [Loaders Libraries](https://github.com/prscX/awesome-react-native-native-modules#Loaders:-Native-Modules)
   - [Alert, Prompt, Action & Dialog Libraries](https://github.com/prscX/awesome-react-native-native-modules#Alter,-Prompt,-Action-&-Dialog:-Native-Modules)
   - [Image, Audio, Video & Docs Libraries](https://github.com/prscX/awesome-react-native-native-modules#Image-&-Audio-&-Video-&-Docs:-Native-Modules)
   - [Network Libraries](https://github.com/prscX/awesome-react-native-native-modules#Network:-Native-Modules)
@@ -125,6 +126,24 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+
+
+
+
+
+## <a name="Loaders">Loaders: Native Modules</a>
+
+- [react-native-spinkit ★1230](https://github.com/maxs15/react-native-spinkit): A collection of animated loading indicators for React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-progresshub ★11](https://github.com/frontendhot/react-native-progresshub): An implement of ProgressHUD for React-Native, similar to MBProgressHUD for iOS and KProgressHUD for Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-dialog-progress ★1](https://github.com/cleandersonlobo/react-native-dialog-progress): A dialog showing a progress indicator for React Native.
+
+  <img src="./assets/android.png"/>
 
 
 
