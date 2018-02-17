@@ -241,6 +241,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-fetch-blob ★1940](https://github.com/wkh237/react-native-fetch-blob): A project committed to making file access and data transfer easier, efficient for React Native developers.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-webrtc ★1321](https://github.com/oney/react-native-webrtc): A WebRTC module for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -258,6 +262,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-ble-manager ★456](https://github.com/innoveit/react-native-ble-manager): React Native BLE communication module.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-cookies ★442](https://github.com/joeferraro/react-native-cookies): Cookie manager for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -280,6 +288,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-gcm-android ★170](https://github.com/oney/react-native-gcm-android): GCM for React Native Android.
 
   <img src="./assets/android.png"/>
+
+- [react-native-background-upload ★168](https://github.com/Vydia/react-native-background-upload): Cross platform http post file uploader with android and iOS background support.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-network-info ★153](https://github.com/pusherman/react-native-network-info): React Native library for getting information about the devices network.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-ble ★151](https://github.com/jacobrosenthal/react-native-ble): Central role BLE for react native noble api surface.
 
@@ -386,6 +402,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-share ★960](https://github.com/EstebanFuentealba/react-native-share): Share Social , Sending Simple Data to Other Apps.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
+
 - [react-native-notifications ★882](https://github.com/wix/react-native-notifications): React Native Notifications.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -410,6 +430,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-social-share ★306](https://github.com/doefler/react-native-social-share): Use the iOS and Android native Twitter and Facebook share popup with React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-share-extension ★286](https://github.com/alinz/react-native-share-extension): React Native as an engine to drive share extension.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-google-cast ★217](https://github.com/charliesbox/react-native-google-cast): A library that unifies both android and iOS chromecast sdk.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -431,6 +459,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/ios.png"/>
 
 - [react-native-discovery ★75](https://github.com/yonahforst/react-native-discovery): Discover nearby devices using BLE.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-share-menu ★74](https://github.com/meedan/react-native-share-menu): A module for React Native that adds your app to the share menu of the device.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
