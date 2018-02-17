@@ -24,7 +24,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   - [Widget Libraries](https://github.com/prscX/awesome-react-native-native-modules#Widget:-Native-Modules)
   - [OS, System & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#OS-&-System-&-File-Manager:-Native-Modules)
   - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#Security-&-Auth:-Native-Modules)
-  - [Utility Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility:-Native-Modules)
+  - [Utility, Build & Publish Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility-&-Build-&-Publish:-Native-Modules)
 
 
 
@@ -182,7 +182,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="Image-&-Audio-&-Video-&-Docs:-Native-Modules">Image, Audio, Video & Docs: Native Modules</a>
 
-- [react-native-youtube ★514](https://github.com/inProgress-team/react-native-youtube): A <YouTube/> component for React Native..
+- [react-native-view-shot ★555](https://github.com/gre/react-native-view-shot): Snapshot a React Native view and save it to an image.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
+
+- [react-native-youtube ★514](https://github.com/inProgress-team/react-native-youtube): A <YouTube/> component for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -245,6 +249,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-payments ★552](https://github.com/naoufal/react-native-payments): Accept Payments with Apple Pay and Android Pay using the Payment Request API.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-ibeacon ★310](https://github.com/frostney/react-native-ibeacon): 📡 iBeacon support for React Native.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-mail ★266](https://github.com/chirag04/react-native-mail): A wrapper on top of MFMailComposeViewController from iOS and Mail Intent on android.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -252,6 +264,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-speech ★199](https://github.com/naoufal/react-native-speech): A text-to-speech library for React Native.
 
   <img src="./assets/ios.png"/>
+
+- [react-native-gcm-android ★170](https://github.com/oney/react-native-gcm-android): GCM for React Native Android.
+
+  <img src="./assets/android.png"/>
+
+- [react-native-ble ★151](https://github.com/jacobrosenthal/react-native-ble): Central role BLE for react native noble api surface.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-android-sms-listener ★136](https://github.com/CentaurWarchief/react-native-android-sms-listener): Allows you to listen for incoming SMS messages using React Native.
 
@@ -273,6 +293,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-callkit ★60](https://github.com/ianlin/react-native-callkit): iOS 10 new CallKit framework for React Native.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-android-speech ★45](https://github.com/mihirsoni/react-native-android-speech): This simple React Native module for Android Text To Speech functionality.
 
   <img src="./assets/android.png"/>
@@ -282,6 +306,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 - [react-native-kontaktio ★35](https://github.com/Artirigo/react-native-kontaktio): React Native (iOS and Android) library for Kontakt.io beacons (and all other beacons).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-carrier-info ★25](https://github.com/ianlin/react-native-carrier-info): React Native module bridge to obtain information about the user’s home cellular service provider.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -326,6 +354,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## <a name="OS-&-System-&-File-Manager:-Native-Modules">OS, System & File Manager: Native Modules</a>
 
+- [react-native-device-info ★2101](https://github.com/rebeccahughes/react-native-device-info): Device Information for React Native iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
+
 - [react-native-fs ★1795](https://github.com/itinance/react-native-fs): Native filesystem access for react-native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
@@ -335,6 +367,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-config ★1177](https://github.com/luggit/react-native-config): Bring some 12 factor love to your mobile apps.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-contacts ★635](https://github.com/rt2zz/react-native-contacts): React Native Contacts.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-keychain ★593](https://github.com/oblador/react-native-keychain): Keychain Access for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -361,6 +401,18 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-zip-archive ★115](https://github.com/mockingbot/react-native-zip-archive): Zip archive utility for react-native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-unified-contacts ★104](https://github.com/joshuapinter/react-native-unified-contacts): Your best friend when working with the latest and greatest Contacts Framework in iOS 9+ in React Native.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-discovery ★75](https://github.com/yonahforst/react-native-discovery): Discover nearby devices using BLE.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [React-Native-Calendar-Reminders ★59](https://github.com/wmcmahan/React-Native-Calendar-Reminders): React Native Module for IOS Calendar Reminders.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-phone-picker ★52](https://github.com/Spikef/react-native-phone-picker): React Native component for select phone number from address book.
 
@@ -415,7 +467,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="Utility:-Native-Modules">Utility: Native Modules</a>
+## <a name="Utility-&-Build-&-Publish:-Native-Modules">Utility, Build & Publish: Native Modules</a>
+
+- [react-native-code-push ★4150](https://github.com/Microsoft/react-native-code-push): React Native module for CodePush.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/> <img src="./assets/windows.png"/>
 
 - [react-native-exception-handler ★246](https://github.com/master-atul/react-native-exception-handler): A react native module that lets you to register a global error handler that can capture fatal/non fatal uncaught exceptions.
 
