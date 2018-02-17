@@ -16,20 +16,42 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - Native Modules
   - [UI Libraries]()
   - [Alert, Prompt, Action & Dialog Libraries]()
+  - [Keyboard Libraries]()
   - [Network Libraries]()
   - [Motion Sensor Libraries]()
   - [Widget Libraries]()
   - [Bundler & File Manager Libraries]()
+  - [Security & Auth Libraries]()
 
 ## UI: Native Modules
+
+- [react-native-tableview ★921](https://github.com/aksonov/react-native-tableview): Native iOS UITableView for React Native with JSON support and more.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-search-bar ★582](https://github.com/umhan35/react-native-search-bar): The high-quality iOS native search bar for react native.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-bottom-sheet-behavior ★554](https://github.com/cesardeazevedo/react-native-bottom-sheet-behavior): React Native wrapper for Android BottomSheetBehavior.
 
   <img src="./assets/android.png"/>
 
+- [react-native-sketch ★363](https://github.com/jgrancher/react-native-sketch): A React Native <Sketch /> component for touch-based drawing.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-effects-view ★275](https://github.com/voronianski/react-native-effects-view): Use iOS8 UIVisualEffectViews's blur and vibrancy with ReactNative.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-collapsing-toolbar ★130](https://github.com/cesardeazevedo/react-native-collapsing-toolbar): React Native wrapper for Android CollapsingToolbarLayout.
 
   <img src="./assets/android.png"/>
+
+- [react-native-custom-segmented-control ★102](https://github.com/wix/react-native-custom-segmented-control): Custom version of the IOS SegmentedControl component.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-android-kit ★94](https://github.com/adbayb/react-native-android-kit): Android Native Kit for React Native
 
@@ -70,6 +92,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-tooltip ★176](https://github.com/chirag04/react-native-tooltip): A react-native wrapper for showing tooltips.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-snackbar ★172](https://github.com/cooperka/react-native-snackbar): Material-design "Snackbar" component for Android and iOS.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -82,9 +108,28 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-custom-actsheet ★39](https://github.com/guodong000/react-native-custom-actsheet): A custom ActionSheet for React Native.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-bem-check-box ★28](https://github.com/torifat/react-native-bem-check-box): React Native bridge for awesome BEMCheckBox.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-nmrangeslider-ios ★24](https://github.com/Enrise/react-native-nmrangeslider-ios): React Native Slider component with two markers based on NMRangeSlider.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-android-location-enabler ★11](https://github.com/Richou/react-native-android-location-enabler): Display a GoogleMap like android popup to ask for user to enable location services if disabled.
 
   <img src="./assets/android.png"/>
+
+
+## Keyboard: Native Modules
+
+- [https://github.com/douglasjunior/react-native-keyboard-manager ★165](https://github.com/douglasjunior/react-native-keyboard-manager): Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
+
+  <img src="./assets/ios.png"/>
 
 
 ## Network: Native Modules
@@ -92,6 +137,10 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-android-sms-listener ★136](https://github.com/CentaurWarchief/react-native-android-sms-listener): Allows you to listen for incoming SMS messages using React Native.
 
   <img src="./assets/android.png"/>
+
+- [react-native-browser ★87](https://github.com/PrestoDoctor/react-native-browser): Full-featured web browser module for React Native apps, based on TOWebViewController.
+
+  <img src="./assets/ios.png"/>
 
 - [react-native-android-speech ★45](https://github.com/mihirsoni/react-native-android-speech): This simple React Native module for Android Text To Speech functionality.
 
@@ -120,6 +169,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
 ## Bundler & File Manager: Native Modules
 
+- [react-native-phone-picker ★52](https://github.com/Spikef/react-native-phone-picker): React Native component for select phone number from address book.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-app-info ★39](https://github.com/Iragne/react-native-app-info): Get app version from NSBundle.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-get-music-files ★14](https://github.com/cinder92/react-native-get-music-files): React Native package to get music files from local and sd for iOS and Android.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -128,6 +185,11 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+## Security & Auth: Native Modules
+
+- [react-native-privacy-snapshot ★102](https://github.com/kayla-tech/react-native-privacy-snapshot): Obscure passwords and other sensitive personal information when a react-native app transitions to the background.
+
+  <img src="./assets/ios.png"/>
 
 
 ## Contribution
