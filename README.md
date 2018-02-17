@@ -28,7 +28,9 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
   - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#Security-&-Auth:-Native-Modules)
   - [Utility, Build & Publish Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility-&-Build-&-Publish:-Native-Modules)
 
-
+- [Credits](https://github.com/prscX/awesome-react-native-native-modules#Credits)
+- [Contributors](https://github.com/prscX/awesome-react-native-native-modules#Contribution)
+- [License](https://github.com/prscX/awesome-react-native-native-modules#License)
 
 
 
@@ -645,13 +647,13 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## Credits
+## <a name="#Credits">Credits</a>
 - All the contributors of above listed Native Module libraries.
 - React Native Community members for encouraging to create a Native Modules - Guidelines/Components/News/Tools/Learning Materials.
 - Icons used by [aha-soft](https://www.iconfinder.com/aha-soft)
 
 
-## Contribution :octocat:
+## <a name="#Contribution">Contribution :octocat:</a>
 Found a native module library that you think is awesome?? Want to share it with the world? Add your repo's information to README.
 
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
