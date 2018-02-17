@@ -25,7 +25,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   - [Security & Auth Libraries]()
   - [Utility Libraries]()
 
-## <a name="UI:-Native-Modules">UI: Native Modules</a>
+## UI: Native Modules
 
 - [react-native-tableview ★921](https://github.com/aksonov/react-native-tableview): Native iOS UITableView for React Native with JSON support and more.
 
