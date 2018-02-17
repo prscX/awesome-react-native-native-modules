@@ -338,7 +338,7 @@ Found a native module library that you think is awesome?? Want to share it with 
 
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
-## <a href="#License">License</a>
+## <a name="#License">License</a>
 This library is provided under the MIT License.
 
 AwesomeReactNativeNativeModules @ Pranav Raj Singh Chauhan
