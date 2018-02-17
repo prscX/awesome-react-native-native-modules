@@ -16,14 +16,14 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
   - [Alert, Prompt, Action & Dialog Libraries](https://github.com/prscX/awesome-react-native-native-modules#Alter,-Prompt,-Action-&-Dialog:-Native-Modules)
-  - [Image Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Keyboard Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Network Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Motion Sensor Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Widget Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Bundler & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
-  - [Utility Libraries](https://github.com/prscX/awesome-react-native-native-modules#)
+  - [Image Libraries](https://github.com/prscX/awesome-react-native-native-modules#Image:-Native-Modules)
+  - [Keyboard Libraries](https://github.com/prscX/awesome-react-native-native-modules#Keyboard:-Native-Modules)
+  - [Network Libraries](https://github.com/prscX/awesome-react-native-native-modules#Network:-Native-Modules)
+  - [Motion Sensor Libraries](https://github.com/prscX/awesome-react-native-native-modules#Motion-Sensor:-Native-Modules)
+  - [Widget Libraries](https://github.com/prscX/awesome-react-native-native-modules#Widget:-Native-Modules)
+  - [Bundler & File Manager Libraries](https://github.com/prscX/awesome-react-native-native-modules#Bundler-&-File-Manager:-Native-Modules)
+  - [Security & Auth Libraries](https://github.com/prscX/awesome-react-native-native-modules#Security-&-Auth:-Native-Modules)
+  - [Utility Libraries](https://github.com/prscX/awesome-react-native-native-modules#Utility:-Native-Modules)
 
 ## <a name="UI:-Native-Modules">UI: Native Modules</a>
 
@@ -139,21 +139,21 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
-## Image: Native Modules
+## <a name="Image:-Native-Modules">Image: Native Modules</a>
 
 - [react-native-image-sequence ★38](https://github.com/madsleejensen/react-native-image-sequence): Native implementation for creating frame based image animations.
 
   <img src="./assets/ios.png"/>
 
 
-## Keyboard: Native Modules
+## <a name="Keyboard:-Native-Modules">Keyboard: Native Modules</a>
 
 - [react-native-keyboard-manager ★165](https://github.com/douglasjunior/react-native-keyboard-manager): Library that allows to prevent issues of keyboard sliding up and cover on React-Native iOS projects.
 
   <img src="./assets/ios.png"/>
 
 
-## Network: Native Modules
+## <a name="Network:-Native-Modules">Network: Native Modules</a>
 
 - [react-native-speech ★199](https://github.com/naoufal/react-native-speech): A text-to-speech library for React Native.
 
@@ -180,19 +180,19 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
   <img src="./assets/android.png"/>
 
 
-## Motion Sensor: Native Modules
+## <a name="Motion-Sensor:-Native-Modules">Motion Sensor: Native Modules</a>
 
 - [react-native-sensor-manager ★146](https://github.com/kprimice/react-native-sensor-manager): Native sensors access for react-native.
 
   <img src="./assets/android.png"/>
 
-## Widget: Native Modules
+## <a name="Widget:-Native-Modules">Widget: Native Modules</a>
 
 - [react-native-android-widget-poc ★70](https://github.com/netbeast/react-native-android-widget-poc): React Native Android widgets bridged to JS, a proof of concept.
 
   <img src="./assets/android.png"/>
 
-## Bundler & File Manager: Native Modules
+## <a name="Bundler-&-File-Manager:-Native-Modules">Bundler & File Manager: Native Modules</a>
 
 - [react-native-phone-picker ★52](https://github.com/Spikef/react-native-phone-picker): React Native component for select phone number from address book.
 
@@ -210,7 +210,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
-## Security & Auth: Native Modules
+## <a name="Security-&-Auth:-Native-Modules">Security & Auth: Native Modules</a>
 
 - [react-native-touch-id ★601](https://github.com/naoufal/react-native-touch-id): React Native authentication with the native Touch ID popup.
 
@@ -220,7 +220,7 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
-## Utility: Native Modules
+## <a name="Utility:-Native-Modules">Utility: Native Modules</a>
 
 - [rn-apple-healthkit ★95](https://github.com/terrillo/rn-apple-healthkit): A React Native package for interacting with Apple HealthKit.
 
