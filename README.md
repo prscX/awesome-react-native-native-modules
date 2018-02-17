@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/hero.png">
+</p>
+
 # Awesome React Native: Native Modules
 
 <p align="center">
