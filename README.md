@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
-  <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
   <a href="https://www.npmjs.com/package/react-native-media-meta"><img src="http://img.shields.io/npm/v/awesome-react-native-native-modules.svg?style=flat" /></a>
+  <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
 </p>
 
 # Awesome React Native: Native Modules
