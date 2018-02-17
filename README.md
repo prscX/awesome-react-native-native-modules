@@ -195,6 +195,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-svg ★2157](https://github.com/react-native-community/react-native-svg): SVG library for React Native.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-image-crop-picker ★1790](https://github.com/ivpusic/react-native-image-crop-picker): iOS/Android image picker with support for camera, configurable compression, multiple images and cropping.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
