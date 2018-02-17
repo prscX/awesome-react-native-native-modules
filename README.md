@@ -328,9 +328,21 @@ A curated list of awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
+- [react-native-exit-app ★40](https://github.com/wumke/react-native-exit-app): Exit,close,kill,shutdown app completely for React Native on iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-battery ★20](https://github.com/oojr/react-native-battery): Plugin for react native that adds an listener for the battery status of a device.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-dimmer ★20](https://github.com/yadi-social/react-native-dimmer): A plugin that allows you to enable (eventually lock the device) and disable the screen dim in your React Native app. Works in both iOS and Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+
+
+
 
 
 ## Contribution
