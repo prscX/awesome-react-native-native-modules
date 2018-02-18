@@ -115,7 +115,7 @@ public class RNNativeComponent extends ViewGroupManager<ViewGroup> {
 ```java
 @Override 
 public String getName() {
-return REACT_CLASS;
+    return REACT_CLASS;
 } 
 ```
 
