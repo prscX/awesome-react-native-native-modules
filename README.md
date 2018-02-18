@@ -26,6 +26,11 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
   - [How to create a Native Module](./wiki/Setup.md#How-to-create-a-Native-Module)
   - [How to add Native Module to your app](./wiki/Setup.md#How-to-add-Native-Module-to-your-app)
 
+- Creating Native Modules
+  - [Android](./wiki/Creation/Android.md)
+  - [iOS](./wiki/Creation/iOS.md)
+
+
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
   - [Loaders & Animation Libraries](https://github.com/prscX/awesome-react-native-native-modules#Loaders-&-Animation:-Native-Modules)
