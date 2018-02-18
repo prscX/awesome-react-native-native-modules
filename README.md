@@ -18,13 +18,13 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 - [Introduction](./wiki/Introduction.md)
   - [Things you should know BEFORE you create a Native Module](./wiki/Introduction.md#Things-you-should-know-BEFORE-you-create-a-Native-Module)
-  - [Eligibility Criteria for creating a Native Module](./wiki/Introduction#Eligibility-Criteria-for-creating-a-Native-Module)
-  - [Advantages of Native Module](./wiki/Introduction#Advantages-of-Native-Module)
-  - [Disadvantage of Native Module](./wiki/Introduction#Disadvantage-of-Native-Module)
+  - [Eligibility Criteria for creating a Native Module](./wiki/Introduction.md#Eligibility-Criteria-for-creating-a-Native-Module)
+  - [Advantages of Native Module](./wiki/Introduction.md#Advantages-of-Native-Module)
+  - [Disadvantage of Native Module](./wiki/Introduction.md#Disadvantage-of-Native-Module)
 
 - Setup
-  - [How to create a Native Module](./wiki/Setup#How-to-create-a-Native-Module)
-  - [How to add Native Module to your app](./wiki/Setup#How-to-add-Native-Module-to-your-app)
+  - [How to create a Native Module](./wiki/Setup.md#How-to-create-a-Native-Module)
+  - [How to add Native Module to your app](./wiki/Setup.md#How-to-add-Native-Module-to-your-app)
 
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
