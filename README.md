@@ -16,7 +16,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 ## Content
 
-- [Introduction](./wiki/Introduction.md)
+- Introduction
   - [Things you should know BEFORE you create a Native Module](./wiki/Introduction.md#Things-you-should-know-BEFORE-you-create-a-Native-Module)
   - [Eligibility Criteria for creating a Native Module](./wiki/Introduction.md#Eligibility-Criteria-for-creating-a-Native-Module)
   - [Advantages of Native Module](./wiki/Introduction.md#Advantages-of-Native-Module)
