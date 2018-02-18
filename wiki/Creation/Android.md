@@ -41,7 +41,7 @@ public List<ViewManager> createViewManagers(ReactApplicationContext reactContext
 }
 ```
 
-## Creating a ReactContextBaseJavaModule
+## Creating a Module Class
 
 - We’ll start by creating the MyNativeModule class, and extending ReactContextBaseJavaModule.
 
@@ -64,13 +64,12 @@ public String getName() {
 
 - We now have a fully functional (if totally useless) native module that we can import in our JavaScript code. Let’s make it do something a bit more interesting.
 
-- Exposing Module Methods
-Let's defines an show method that takes a config object and success and cancel callbacks.
+- Exposing Module Methods: Let's defines an `Show` method that takes a config object and success and cancel callbacks.
 
 ```java
-public class ImagePickerModule extends ReactContextBaseJavaModule {
+public class MyNativeModule extends ReactContextBaseJavaModule {
     @ReactMethod
-    public void show(ReadableMap config, Callback successCallback, Callback cancelCallback) {
+    public void Show(ReadableMap config, Callback successCallback, Callback cancelCallback) {
         Activity currentActivity = getCurrentActivity();
     
         if (currentActivity == null) {
@@ -81,3 +80,62 @@ public class ImagePickerModule extends ReactContextBaseJavaModule {
 }
 ```
 
+- Invoking Module Method from JavaScript
+
+```javascript
+import { NativeModules } from "react-native";
+
+const { MyNativeModule } = NativeModules;
+
+MyNativeModule.Show(
+    {}, //Config Parameters
+    () => {}, //Success Callback
+    () => {} //Cancel Callback
+)
+
+```
+
+> **Note**:
+> - Module method are just for static invocation, it cannot be part of react tree
+
+## Creating a Native View Component
+
+- If you want to render a Native View component in react tree
+
+- Create a Java Class extending from ReactNative ViewGroupManager
+
+```java
+public class RNNativeComponent extends ViewGroupManager<ViewGroup> {
+    public static final String REACT_CLASS = "RNNativeComponent";
+}
+```
+
+- Override `getName` method:
+
+```java
+@Override 
+public String getName() {
+return REACT_CLASS;
+} 
+```
+
+- Override `createViewInstance` method to return your custom native component
+
+```java
+@Override 
+  protected FrameLayout createViewInstance(final ThemedReactContext reactContext) {
+      return //Your-Native-Component-Wrappered-Inside-FrameLayout
+  }
+```
+
+- Accessing in JavaScript
+
+```javascript
+import { requireNativeComponent } from "react-native"
+
+const MyNativeComponent = requireNativeComponent("RNNativeComponent", RNNativeComponent, {
+  nativeOnly: { }
+})
+
+<MyNativeComponent>
+```
