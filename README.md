@@ -31,6 +31,11 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
   - [iOS](./wiki/Creation/iOS.md)
 
 
+- Some Best Tutorials
+  - [React Native: Guidelines](https://facebook.github.io/react-native/docs/native-modules-ios.html)
+  - [infinite.red: native-modules-for-react-native-android](https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d)
+  - [Tyler Buchea: how-to-create-a-react-native-ios-native-module](http://blog.tylerbuchea.com/how-to-create-a-react-native-ios-native-module/)
+
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
   - [Loaders & Animation Libraries](https://github.com/prscX/awesome-react-native-native-modules#Loaders-&-Animation:-Native-Modules)
