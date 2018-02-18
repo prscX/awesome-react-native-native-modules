@@ -18,7 +18,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
-  - [Loaders Libraries](https://github.com/prscX/awesome-react-native-native-modules#Loaders:-Native-Modules)
+  - [Loaders & Animation Libraries](https://github.com/prscX/awesome-react-native-native-modules#Loaders-&-Animation:-Native-Modules)
   - [Alert, Prompt, Action & Dialog Libraries](https://github.com/prscX/awesome-react-native-native-modules#Alter,-Prompt,-Action-&-Dialog:-Native-Modules)
   - [Image, Audio, Video & Docs Libraries](https://github.com/prscX/awesome-react-native-native-modules#Image-&-Audio-&-Video-&-Docs:-Native-Modules)
   - [Network Libraries](https://github.com/prscX/awesome-react-native-native-modules#Network:-Native-Modules)
@@ -117,6 +117,14 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-material-shadows ★19](https://github.com/prscX/react-native-material-shadows): React Native: Native Material Shadows.
+
+  <img src="./assets/android.png"/>
+
+- [react-native-gradient-blur-view ★10](https://github.com/prscX/react-native-gradient-blur-view): React Native: Native Gradient with Blur Effect.
+
+  <img src="./assets/ios.png"/>
+
 - [react-native-android-bottom-navigation ★10](https://github.com/timomeh/react-native-android-bottom-navigation): Native UI Component of Android's BottomNavigation for react-native.
 
   <img src="./assets/android.png"/>
@@ -134,13 +142,41 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 
 
-## <a name="Loaders:-Native-Modules">Loaders: Native Modules</a>
+## <a name="Loaders-&-Animation:-Native-Modules">Loaders & Animation: Native Modules</a>
 
 - [react-native-spinkit ★1230](https://github.com/maxs15/react-native-spinkit): A collection of animated loading indicators for React Native.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-spruce ★215](https://github.com/prscX/react-native-spruce): React Native Bridge for Native Spruce Animation Library.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-shine-button ★87](https://github.com/prscX/react-native-shine-button): React Native: Native Shine Button - Effects like shining.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-taptargetview ★66](https://github.com/prscX/react-native-taptargetview): React Native Bridge for Android KeepSafe/TapTargetView.
+
+  <img src="./assets/android.png"/>
+
+- [react-native-iconic ★58](https://github.com/prscX/react-native-iconic): React Native - Native Animated Icons with different states.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-material-showcase-ios ★50](https://github.com/prscX/react-native-material-showcase-ios): React Native Bridge for aromajoin/material-showcase-ios.
+
+  <img src="./assets/ios.png"/>
+
+- [react-native-download-button ★35](https://github.com/prscX/react-native-download-button): React Native: Native Download Button: with pretty cool animation.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-progresshub ★11](https://github.com/frontendhot/react-native-progresshub): An implement of ProgressHUD for React-Native, similar to MBProgressHUD for iOS and KProgressHUD for Android.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-siri-wave-view ★8]https://github.com/prscX/react-native-siri-wave-view): React Native: Native Siri Wave View.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
@@ -174,6 +210,14 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-bottom-action-sheet ★90](https://github.com/prscX/react-native-bottom-action-sheet): React Native: Native Bottom Action Sheet.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-popover-menu ★68](https://github.com/prscX/react-native-popover-menu): React Native: Native Popover Menu.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-action-sheet ★66](https://github.com/yfuks/react-native-action-sheet): React native simple action sheet with native android (using the built-in AlertDialog).
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
@@ -193,6 +237,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 - [react-native-nmrangeslider-ios ★24](https://github.com/Enrise/react-native-nmrangeslider-ios): React Native Slider component with two markers based on NMRangeSlider.
 
   <img src="./assets/ios.png"/>
+
+- [react-native-tooltips ★18](https://github.com/prscX/react-native-tooltips): React Native: Native Tooltip View.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 - [react-native-android-location-enabler ★11](https://github.com/Richou/react-native-android-location-enabler): Display a GoogleMap like android popup to ask for user to enable location services if disabled.
 
