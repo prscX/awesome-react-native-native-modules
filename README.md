@@ -176,7 +176,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
-- [react-native-siri-wave-view ★8]https://github.com/prscX/react-native-siri-wave-view): React Native: Native Siri Wave View.
+- [react-native-siri-wave-view ★8](https://github.com/prscX/react-native-siri-wave-view): React Native: Native Siri Wave View.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
