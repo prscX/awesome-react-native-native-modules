@@ -17,6 +17,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 ## Content
 
 - [Introduction](./wiki/Introduction.md)
+  - [Things you should know BEFORE you create a Native Module](./wiki/Introduction.md#Things-you-should-know-BEFORE-you-create-a-Native-Module)
 
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
