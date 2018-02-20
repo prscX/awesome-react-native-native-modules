@@ -34,6 +34,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 - Tutorials
   - [Blogs](./wiki/Tutorials.md#Blogs)
   - [Videos](./wiki/Tutorials.md#Videos)
+  - [Samples](./wiki/Tutorials.md#Samples)
 
 - Native Modules
   - [UI Libraries](https://github.com/prscX/awesome-react-native-native-modules#UI:-Native-Modules)
