@@ -68,7 +68,7 @@ MyNativeModule.Show(() => {})
 }
 ```
 
-- Creating native props methods
+- Creating native prop methods
 
 ```objectivec
 RCT_CUSTOM_VIEW_PROPERTY(prop, DATA_TYPE_OF_PROP, YOUR_NATIVE_COMPONENT_CLASS) {
