@@ -128,6 +128,15 @@ public String getName() {
   }
 ```
 
+- Creating native prop methods
+
+```java
+  @ReactProp(name = "prop_name") 
+  public void setPropName(NativeComponent nativeComponent, propDataType prop) {
+  }
+```
+
+
 - Accessing in JavaScript
 
 ```javascript
@@ -137,5 +146,5 @@ const MyNativeComponent = requireNativeComponent("RNNativeComponent", RNNativeCo
   nativeOnly: { }
 })
 
-<MyNativeComponent>
+<MyNativeComponent prop={this.props.prop}>
 ```
