@@ -65,7 +65,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/ios.png"/>
 
-- [react-native-overlay ★588](https://github.com/brentvatne/react-native-overlay): An <Overlay /> component that brings content inside to the front of the view regardless of its current position in the component tree.
+- [react-native-overlay ★588](https://github.com/brentvatne/react-native-overlay): A <Overlay /> component that brings content inside to the front of the view regardless of its current position in the component tree.
 
   <img src="./assets/ios.png"/>
 
@@ -588,7 +588,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
-- [react-native-quick-actions ★508](https://github.com/jordanbyron/react-native-quick-actions): A react-native interface for Touch 3D home screen quick actions.
+- [react-native-quick-actions ★508](https://github.com/jordanbyron/react-native-quick-actions): A react-native interface for 3D Touch home screen quick actions.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
