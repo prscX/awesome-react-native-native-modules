@@ -121,7 +121,7 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
-- [react-native-ios-drag-drop ★61](https://github.com/matt-oakes/react-native-ios-drag-drophttps://github.com/callstack/react-native-material-palette): Support for the iOS 11+ inter-app drag and drop.
+- [react-native-ios-drag-drop ★63](https://github.com/matt-oakes/react-native-ios-drag-drop): Support for the iOS 11+ inter-app drag and drop.
 
   <img src="./assets/ios.png"/>
 
