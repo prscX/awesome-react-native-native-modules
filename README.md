@@ -1,3 +1,5 @@
+<h1 align="center">
+
 <p align="center">
   <img src="./assets/hero.png" width="600" height="300" />
 </p>
@@ -9,7 +11,11 @@
   <a href="https://github.com/prscX/awesome-react-native-native-modules#License"><img src="https://img.shields.io/npm/l/awesome-react-native-native-modules.svg?style=flat" /></a>
 </p>
 
-# Awesome React Native: Native Modules
+
+    Awesome React Native: Native Modules
+
+If this project has helped you out, please support us with a star 🌟
+</h1>
 
 A curated list of Awesome React Native: Native Modules Guidelines/Components/News/Tools/Learning Materials. For general React Native libraries please have a look at [awesome-react-native](https://github.com/jondot/awesome-react-native).
 
@@ -763,12 +769,32 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 - Icons used by [aha-soft](https://www.iconfinder.com/aha-soft)
 
 
-## <a name="Contribution">Contribution :octocat:</a>
-Found a native module library that you think is awesome?? Want to share it with the world? Add your repo's information to README.
+## ✨ Credits
 
+## 🤔 How to contribute
+Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/prscX/awesome-react-native-native-modules/issues).
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
 
-## <a name="License">License</a>
-This library is provided under the MIT License.
+## 💫 Where is this library used?
+If you are using this library in one of your projects, add it in this list below. ✨
 
-AwesomeReactNativeNativeModules @ Pranav Raj Singh Chauhan
+
+## 📜 License
+This library is provided under the Apache License.
+
+AwesomeReactNativeNativeModules @ [prscX](https://github.com/prscX)
+
+## 💖 Support my projects
+I open-source almost everything I can, and I try to reply everyone needing help using these projects. Obviously, this takes time. You can integrate and use these projects in your applications for free! You can even change the source code and redistribute (even resell it).
+
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it:
+* Starring and sharing the projects you like 🚀
+* If you're feeling especially charitable, please follow [prscX](https://github.com/prscX) on GitHub.
+
+  <a href="https://www.buymeacoffee.com/prscX" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+  Thanks! ❤️
+  <br/>
+  [prscX.github.io](https://prscx.github.io)
+  <br/>
+  </ Pranav >
