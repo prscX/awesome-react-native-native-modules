@@ -10,7 +10,8 @@
   <a href="https://github.com/prscX/awesome-react-native-native-modules/pulls"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
   <a href="https://github.com/prscX/awesome-react-native-native-modules#License"><img src="https://img.shields.io/npm/l/awesome-react-native-native-modules.svg?style=flat" /></a>
 </p>
-
+[![Backers on Open Collective](https://opencollective.com/awesome-react-native-native-modules/backers/badge.svg)](#backers)
+[![Sponsors on Open Collective](https://opencollective.com/awesome-react-native-native-modules/sponsors/badge.svg)](#sponsors) 
 
     Awesome React Native: Native Modules
 
@@ -774,6 +775,25 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 ## 🤔 How to contribute
 Have an idea? Found a bug? Please raise to [ISSUES](https://github.com/prscX/awesome-react-native-native-modules/issues).
 Contributions are welcome and are greatly appreciated! Every little bit helps, and credit will always be given.
+
+### Contributors
+
+This project exists thanks to all the people who contribute. 
+<a href="graphs/contributors"><img src="https://opencollective.com/awesome-react-native-native-modules/contributors.svg?width=890&button=false" /></a>
+
+### Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/awesome-react-native-native-modules#backer)]
+
+<a href="https://opencollective.com/awesome-react-native-native-modules#backers" target="_blank"><img src="https://opencollective.com/awesome-react-native-native-modules/backers.svg?width=890”></a>
+
+### Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/awesome-react-native-native-modules#sponsor)]
+
+<a href="https://opencollective.com/awesome-react-native-native-modules/sponsor/0/website" target="_blank"><img src="https://opencollective.com/awesome-react-native-native-modules/sponsor/0/avatar.svg"></a>
+
+
 
 ## 💫 Where is this library used?
 If you are using this library in one of your projects, add it in this list below. ✨
