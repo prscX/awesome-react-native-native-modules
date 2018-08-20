@@ -402,6 +402,13 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 
 
+## <a name="Monetization:-Native-Modules">Monetization: Native Modules</a>
+
+- [https://github.com/dooboolab/react-native-iap ★318](https://github.com/dooboolab/react-native-iap): React Native In App Purchase.
+
+- [https://github.com/sbugert/react-native-admob ★648](https://github.com/sbugert/react-native-admob): React Native Google Admob.
+
+
 
 
 ## <a name="Network:-Native-Modules">Network: Native Modules</a>
