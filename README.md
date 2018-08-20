@@ -406,7 +406,11 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
 - [https://github.com/dooboolab/react-native-iap ★318](https://github.com/dooboolab/react-native-iap): React Native In App Purchase.
 
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [https://github.com/sbugert/react-native-admob ★648](https://github.com/sbugert/react-native-admob): React Native Google Admob.
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
 
 
