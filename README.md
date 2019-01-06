@@ -692,6 +692,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-sms-retriever](https://github.com/Bruno-Furtado/react-native-sms-retriever): SMS Retriever API for Android.
+
+  <img src="./assets/android.png"/>
+
 
 
 
