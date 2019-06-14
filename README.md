@@ -536,6 +536,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-google-pay](https://github.com/busfor/react-native-google-pay): Accept Payments with Google Pay for React Native apps.
+
+  <img src="./assets/android.png"/>
+
 
 
 
