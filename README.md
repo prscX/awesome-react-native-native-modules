@@ -540,6 +540,10 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/>
 
+- [react-native-apay](https://github.com/busfor/react-native-apay): Accept Payments with Apple Pay for React Native apps.
+
+  <img src="./assets/ios.png"/>
+
 
 
 
