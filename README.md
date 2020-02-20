@@ -391,6 +391,14 @@ A curated list of Awesome React Native: Native Modules Guidelines/Components/New
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
 
+- [react-native-photoeditorsdk ★26](https://github.com/imgly/pesdk-react-native): React Native module for [PhotoEditor SDK](https://www.photoeditorsdk.com).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
+- [react-native-videoeditorsdk ★21](https://github.com/imgly/vesdk-react-native): React Native module for [VideoEditor SDK](https://www.videoeditorsdk.com).
+
+  <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
+
 - [react-native-compress ★15](https://github.com/phuochau/react-native-compress): Compress video for react native. Only for iOS, Android will be coming.
 
   <img src="./assets/android.png"/> <img src="./assets/ios.png"/>
